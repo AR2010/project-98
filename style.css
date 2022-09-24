@@ -18,5 +18,13 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+#voiceoutput {
+    background-color: black;
+    border-width: 0px;
+    color: blanchedalmond;
+    text-align: center;
 }
